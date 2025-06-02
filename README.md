@@ -11,7 +11,7 @@ Resume: Today you will see how to get needed data based on sets constructions an
 - All tasks contain a list of Allowed and Denied sections with listed database options, database types, SQL constructions etc. Please have a look at the section before you start.
 - Please take a look at the Logical View of our Database Model. 
 
-![schema](misc/images/schema.png)
+![schema](misc/schema.png)
 
 
 1. **pizzeria** table (Dictionary Table with available pizzerias)
